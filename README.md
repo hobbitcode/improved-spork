@@ -40,6 +40,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Testing vue cli build --modern in Vue via Flowt build commands
 ```
+
 npm install -g @vue/cli
 npm install -g @vue/cli-service-global
 vue-cli-service build --modern
